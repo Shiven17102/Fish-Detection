@@ -1,6 +1,6 @@
 # Fish Detection in Marine Environments (YOLO Object Detection)
 
-A Flask web app that uses a YOLO model to detect fish in an uploaded image (or a live webcam feed) and identify the species, along with basic info (is it eatable, conservation status, health benefits).
+A Flask web app that uses a YOLO model to detect fish in an uploaded image (or a live webcam feed) and identify the species, along with basic information(is it eatable, conservation status, health benefits).
 
 ## How the dataset connects to the model
 
